@@ -1,19 +1,19 @@
 {
   "format": 1,
-  "version": 1,
+  "version": 2,
   "updated": "2026-11-15",
   "games": {
     "ets2": {
       "file": "truck-map-ets2.jcmap",
-      "size": 6343153,
-      "sha256": "036e9f42dcdefa477153d09f6869c8123c814923690a454524ed5d21832f302c",
+      "size": 6402866,
+      "sha256": "e99f5f17fd397e2669f8ce778d214d39b4aec5823092fce9f602ef245ba0d245",
       "game_version": "1.62.3.3",
       "made": "2026-11-15"
     },
     "ats": {
       "file": "truck-map-ats.jcmap",
-      "size": 5076954,
-      "sha256": "162cf46bc393adb7d83a61987a2cccc62802b8f5ca31938468757a4aacf204b5",
+      "size": 5124559,
+      "sha256": "f71043a2a63d76ec249212fc035c47229e025fa94a0e6023816825c1821fde62",
       "game_version": "1.62.2.2",
       "made": "2026-11-15"
     }
